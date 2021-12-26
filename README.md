@@ -5,4 +5,4 @@ Additions:
 - python3-pip 
 - python3-dev 
 - libpq-dev 
-- nodejs installed
+- nodejs
